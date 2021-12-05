@@ -1,0 +1,7 @@
+name: myGIS
+channels:
+  - defaults
+  - esri
+dependencies:
+  - arcgis
+prefix: /Users/haleykorczak/miniconda3/envs/myGIS
